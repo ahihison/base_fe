@@ -15,7 +15,6 @@
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
     "antd": "^5.8.4",
-    "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
     "dayjs": "^1.11.9",
     "eslint": "8.46.0",
@@ -31,11 +30,16 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.2.0",
+    "autoprefixer": "^10.4.15",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.3",
     "prettier": "^3.0.1",
     "prettier-plugin-tailwindcss": "^0.4.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/duyunderdog/school_fe.git",
+  "author": "Sơn <88760761+ahihison@users.noreply.github.com>",
+  "license": "MIT"
 }
